@@ -1,0 +1,711 @@
+/02/2020
+The session was good and I learned so many new things like:
+1.
+2.
+3.
+4.
+5.
+6.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+10/02/2020
+The session was good and I learned so many new things like:
+1. how we integrate redhat 8 with python3.
+2. what is the difference btwn GUI and CLI.
+3. every gui having some cli command running in background.
+4. requirements of linux and python programming in industries.
+5. importance of cookies and how hacking is possible by using cookies.
+6. run some command on redhat terminal like firefox,date,cal,gedit etc.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+11/02/2020
+The session was good and I learned so many new things like:
+1. how to use watch command and saw the running date with some delay and create one script with date command.
+2. learned about virtualzation and installation of redhat8 on virtual box.
+3. understand different types of installation bare-metal, virtualization,cloudc computing,container(docker).
+4. how command ctrl+c and ctrl+z differ and some more commands like sleep,&, echo,man,ifconfig.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+12/02/2020 session 3
+The session was good and I learned so many new things like:
+1. learned about basics of networking and its working example in mobile phones.
+2. learned how to convert 4 octate to 1 octate and octal IP to decimal IP .
+3. learned how to use bc calculator to calculate binary code.
+4. learned the difference between ctrl+z & ctrl+c commands.
+5. learned commands like nslookup, ping, ifconfig.
+6. learned about ip representation and working of ip.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+13/02/2020 session 4
+The session was good and I learned so many new things like:
+1. behind every GUI program there is always some cli command runs.
+2. open terminals using command gnome-terminal.
+3. some python concept like loops, repl, exit command, module 
+4. learned commands like grep,mkdir,cat,cd,ps -aux, touch, gedit, etc
+5. how to access laptop using phone.
+6. what is the need of programming language with operating system.
+7. understand that program always process in ram.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+14/02/2020 session 5
+The session was good and I learned so many new things like:
+1. how to create a new user and its password using useradd and passwd command .
+2. used id command to verify that user created or not.
+3. learned commands like whoami, chvt,startx, tty, which,tput.
+4. unserstand why linux is multi user system.
+5. shorcut for switching btwn cli terminals left Ctrl + Alt + F1 or (other f series buttons).
+6. how to use cat command to create,append data, difference between > and >> and io redirections.
+7. what is shell and its different types.
+8. what are predefined and user defined variables in programming.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+17/02/2020 session 6
+The session was good and I learned so many new things like:
+1. intro to python and its different datatypes.
+2. how to reverse the string, interpolation, slicing operator, escape sequence.
+3. difference between list & tuple datatypes. 
+4. what are reference variable.
+5. how to run python on repl interface and cat command.
+6. learned about basics of docker technology.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+18/02/2020 session 7
+The session was good and I learned so many new things like:
+1. learned about IO redirection and use of '<' and '>'.
+2. how to find length of list using len command and how to find active terminal no. using tty command and tr.
+3. difference between >(for giving input to the file) and >> (for append)
+4. what are EOL(on enter) and EOF(on Ctrl + D) and real use of cat command.
+5. learned about stdin and stdout
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+19/02/2020 session 8
+The session was good and I learned so many new things like:
+1. learned about package and package management where mostly files are stored in the PC.
+2. what is rpm command and its use for package management.
+3. how to install and uninstall the software using rpm.
+4. grep and rpm command to search any installed software.
+5. concept of iso,how to attach iso file or dvd with Virtual machine.
+6. learned commands like eog, history,verbose mode, etc.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+20/02/2020 session 9
+The session was good and I learned so many new things like:
+1. difference btwn list and array which We can't do column wise operation using list but do using array.
+2. how to install library in python uisng pip and pip3 command.
+3. learned how hadoop,by using some trick and deep knowledge we can make our own computers.
+4. use of echo $?, & commands.
+5. learned about I/O redirection STDOUT( 1> and 2>>) STDERR (2> AND 2>>) and STDIN (<).
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+24/02/2020 session 10
+The session was good and I learned so many new things like:
+1. understand about docker class.
+2. understand the concept of pipeline.
+3. learned command like wc, tee, grep, tr and its application .
+4. understand what is EOL and EOF.
+5. understand the concept of Regex ^.
+6. how to send data to multiple files.
+7. what is map reduction and how to use it.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+25/02/2020 session 11
+The session was good and I learned so many new things like:
+1. learned concept of networking, prerequisite and how it works.
+2. learned about remote access and local access of host system.
+3. learned about SSH protocol and how it works for communication btwn two host.
+4. learned about bridging and bridge adapter works. 
+5. concept of ip addressing, use of ping, route -n.
+6. understand how to connect mobile phone to linux and execute remote commands.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+26/02/2020 session 12
+The session was good and I learned so many new things like:
+1. connection setup between two vm on same or different laptop.
+2. cloning of vm .
+3. learned about ssh and scp protocols and its application.
+4. learned terminology: compute unit, storage unit. 
+5. learned about bridging and bridge adapter works
+6. learned about networks and dhcp.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+28/02/2020 session 13
+The session was good and I learned so many new things like:
+1. understand what are repositories and its importance.
+2. configuration of yum for installing software.
+3. also used dnf for software installation.
+4. yum and dnf command and why dnf is better than yum.
+5. we installed epel and fusion repo for software installation.
+6. we used wget command to download anything. 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+02/03/2020 session 14
+The session was good and I learned so many new things like:
+1. learned about web server,web hosting,client-server model in networking.
+2. learned how to configure web server using three simple steps and its core concept.
+3. learned the concept  and protocol of client-server communication.
+4. learned about different types of server like httpd, nginx etc.
+5. how to enables or disable firewall.
+6. how to configure client machine to access web service using URL.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+03/03/2020 session 15
+The session was good and I learned so many new things like:
+1. learned how to configure apache web server.
+2. how to permanent/persistent enable httpd by systemctl enable httpd.
+3. used CURL command for command line URL
+4. learned how to fetch data from any site and save it.
+5. how port number assigned internally to web servers.
+6. learned to get port number of running servers and services using command netstat -tnlp.
+7. learned we can give port number between 0 - 35535 and change the port number and change it editing httpd/conf file.
+8. learned where to put default document root for web servers.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+05/03/2020 session 16
+The session was good and I learned so many new things like:
+1. learned about configuration of httpd server and its use cases.
+2. how to change standard ports and changing document root directory. 
+3. background programs or services running on server called daemon. 
+4. learned about greatest security in Linux SElinux and how it enhanced server security.
+5. learned about nmap command to scan active IP addresses and ports. 
+6. learned about the default homepage of server index.html.
+7. learned how to make our own config. file in httpd which has more priority then main config. file. 
+8. learned about changing the ports of the different services.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+06/03/2020 session 17
+The session was good and I learned so many new things like:
+1. learned about difference between cli and gui text editor
+2. learned about encryption and decryption of files.
+3. worked on vi and vim editor and advantages of vim.
+4. learned some commands like rmdir,rm,mv,cp and some options for vm and vim etc.
+5. learned about home directory and paths.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+12/03/2020 session 18
+The session was good and I learned so many new things like:
+1. learned about remote program Eexecution server using SSH server.
+2. learned xclip command XCLIP to open clipboard.
+3. learned about what is Putty and how this software works.
+4. learned how configure SSH server and how to connect reomtely.
+5. learned about use of ;(semicolon) and ""(double quotes).
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+/02/2020
+The session was good and I learned so many new things like:
+1.
+2.
+3.
+4.
+5.
+6.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+
+
+/03/2020
+The session was good and we learned so many new things like:
+1. we learned about how to configure the ssh protocol server.
+2. we learned about how to ssh work and how to run multiple command using semicolon.
+3. we learned about how to use the remote access different laptop.
+4. we learned about how to execute program remotely using ssh server.
+5. we learned how to used putty software.
+6. we learned how to use Putty in windows.
+7. we learned how retrieve the mouse selected copy paste data using xclip -i or xclip -o command and its installation.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+13/03/2020 session 19
+The session was good and we learned so many new things like:
+1. learned about core concepts of networking like ip address:- IPv4 and IPv6.
+2. recall concept of IPv4 ip address which is that any no. represent in 4 bytes belongs to IPv4.
+3. learn about a list of 6 things to connect two devices that is os + hardware, NIC, IP address, network name, physical connectivity, IP type(public or private).
+4. learned about the networking devices like switchs and routers, how they do their work and their uses in network connection between devices.
+5. learned about the classes of IP address, netmask, and how to identify and distinguish IP network name using netmask.
+6. learned how to calculate network name using AND logic and some calculations.
+7. learned about decimal(255.255.255.0), prefix length(/8 /16 /24) representation of netmask.
+8. learned many details things about mobile hotspot like it works as a router, switch, hub.
+9. learned about lan, topology, router as a gateway with two NIC
+10.learned so commands like route -n, nmcli, route add -net IP gw IP, mannual and Dynamic IP configure using ifconfig enp0s3 IP and dhcp or dns.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+16/03/2020 session 20
+The session was good and we learned so many new things like:
+1. we learned about SSH and SSH server, protocol for using openssh service.
+2. we learned that SSH protocol is used for management services.
+3. we learned how to display GUI on server.
+4. we learned how to get two ways of output.
+5. we learned about xhost and W command.
+6. we learned how to open gui program like firefox through ssh on host.
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+18/03/2020 session 21
+The session was good and we learned so many new things like:
+1. we learned about tui and breif intro about the project and why are trying to make life of linux guys simple.
+2. we understand that try to learn language without os will not help in project creation.
+3. we started to code in python3 we used input, print functions on vim text editor and created menu for project.
+4. we understand the importance of technical exams and their certification.
+5. we use \t, ''' ''', os.system function, tput, setaf in coding.
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+20/03/2020 session 22
+The session was good and we learned so many new things like:
+1. we learned about conditional statements in python programming.
+2. we learned about if-else conditionals and its structure.
+3. we learned about how to take inout from user and use it with commands.
+4. we learned about string concatenation using + symbol.
+5. we learned about string formatting,placeholder and interpolation.
+6. we learned how to integrate python programming basics and redhat basic command. 
+7. we learned about indentation, typecating. 
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+23/03/2020 session 23
+The session was good and we learned so many new things like:
+1. we learned how to use our menu for remote devices.
+2. we enhanced our menu according to local and remote user.
+3. we use ssh command to use menu options on remote devices by asking the remote IP address.
+4. we successfull run date, cal commands on remote system.
+5. we create users on remote system using ssh, ip and useradd command.
+6. we learned about string formatting or interpolation. 
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+25/03/2020 session 24
+The session was good and we learned so many new things like:
+1. we learned about while loops.
+2. we learned the similarities and difference between while loop and if-else.
+3. we learned how and when to use if else an while loop.
+4. we optimise our projects with while loop and makes it more dynamic.
+5. we learned about unary operator and its working with loops.
+6. we learned when loop goes into infinte looping state.
+7. we learned about some functions like: clear, exit, and learned and solved indentation problem.
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+26/03/2020 session 25
+The session was good and we learned so many new things like:
+1. we understand the setup for the workshop environment.
+2. we understand how to make internal changes to use web camera in virtual machine.
+3. we understand how to the installation of extension
+4. we understand how to get anaconda.
+and many more things...
+Your work and initiative are highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+30/03/2020
+The session was good and I learned so many new things like:
+1. important announcement regarding the MLOps summer online training programme.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+31/03/2020 session 27
+The session was good and I learned so many new things like:
+1. how to apply password authenticattion in our menu project.
+2. learned a important of echoback and its working behind notepad and networking.
+3. learned about python getpass module, its getpass function and how to use it.
+4. understand types of authentication in ssh protocol like password and key based protocol.
+5. setup ssh security using keygen public key auth in both side server and client.
+6. understand the concept behind the password less authentication.
+7. rectify our code for remote user to use this project menu.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+01/03/2020 session 28
+The session was good and I learned so many new things like:
+1. what are memory storage units and partitions.
+2. concepts of MB,KB,GB and MiB,KiB,GiB.
+3. understand the architecture of hardisk.
+4. some commands like: lvdisplay, fdisk- i, bc, int0.
+5. how to create new hardisk in vm and understand about sectors.
+6. learned how data is stored formsector and can't be removed if it is written in platter holes.
+7. understand that to store data we need file, folders or directory and drive or partition.
+8. introduction to shredding.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+05/04/2020 session 29
+The session was good and I learned so many new things like:
+1. learned about the hardisk and data storage inside hard-disk.
+2. learned about basic units of hard disk which is sector of 512 bytes.
+3. learned why we need to create partition and how to create partition which is a three step process.
+4. understand how many partition we create in any hard-disk which is 4 because of limited size of 64 bytes(16bytes * 4) of partition table.
+5. learned about primary, extended and logical partition of the hard-drive and how we create more than 4 partition inside the extended partition.
+6. learned about blocked device which stores any type of data.
+7. learned command like: fdisk -l,fdisk -l /dev/drivename, fdisk /dev/drive, some option used in partition creation p,n,d,q,w etc., lsblk, partprobe /dev/drivename, udevadm settle.
+8. we create so many primary,logical  partition but a common thing is that everything about partition is stored in some reserved space inside the main partition of the drive. 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+16/04/2020 session 30
+The session was good and I learned so many new things like:
+1. we understand the use-cases and requirements that where to use while loop and where to for loop in programming.
+2. for loop is useful when we have some definite task to do but don't know how many time it will changes in future.
+3. we understand the concept of list comprehension and how much it is useful in reducing the codes.
+4. we learnt about the functions, its applications, its declarations and how fuctions are helpful in cleaning and organising code.
+5. we understand about function assingment, static(no argument) function and dynamic(argument) function and how to get something if useful from function using return keyword.
+6. we practiced some codes in for loop, list comprehension, fucntions.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE Id: 2020.83.8.1
+
+21/04/2020 session 31:
+The session was good and I learned so many new things like:
+1. we understand about some advance feature in python programming which is Lazy Execution/Evalutaion.
+2. with the help of Lazy execution we can improve the performance of program.
+3. we learnt how for loop works as exeute(egar execution) and remember mode(Lazy execution). To use in Lazy we need to use Generators.
+4. we understand how to create generator function using parenthesis (), using yield, and iter method .
+5. we understand about generators that keep on generating no. when it is required so that's why is lazy and iterators uses the last value for generating next value functions and how the works in programming.
+6. we learnt about some useful key words like yield,return and functions like range(), next().
+7. we understand iterator consume more ram and cpu as compared to generator.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators
+RISE Id: 2020.83.8.1
+
+
+30/04/2020 session 32:
+The session was good and I learned so many new things like:
+1. working with new techonlogies we require some basic knowlegde of linux.
+2. understand that as a user prespective in os user can access only file and folder nothing else and in linux for working we need to login as a root user to access enitre power of an OS and we have two ways of interction GUI and CLI .
+3. understand that working with CLI requires only command or programs and for working with files and folder so learnt many command like: mkdir, cd, ls, touch, ls -l, cat, cat >, cat >>, clear, pwd, cd .. , cd -, cd ., cd /, rm -i, rm -rvf, rmdir, cp, rpm -qf, yum remove, yum install and many more.
+4. learnt about alias which are nicknames given to command and unalias to remove the nicknames and command.
+5. learnt about absolute directory (/) and absolute path(/../.../) to reach to a particular location in the storage.
+6. understand that we can create file from touch command and also create and edit them from cat command and redirection. we can create normal file as well as hidden files(.file.txt).
+7. understand that GUI and CLI are two different interfaces but the files and folders created by these interface are stored in the same storage devices.
+8. understand the recursive concept and implement recursive in removing (rm -rvf command) and copying (cp -r command) files and folders.
+9. understand about the yum configure, ifconfig, start or stop firewalls and servers using systemctl commands. 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE Id: 2020.83.8.1
+
+
+17/05/2020 session 33:
+The session was good and I learned so many new things like:
+1. we need storage, different types of storage and block devices to store data and files.
+2. revised previous partition concept of DOS format where we can create max 4 patition, extended partition, about sector and its size.
+3. steps to create partition 1 create physical and logical partition 2. format 3. mount the partition.
+4. there is no way ro remove the file or data permanently if data stored in ElectroMechanical drives.
+5. we need some shredding tool to remove data and recovery tool to recover the data.
+6. architecture of sata hard-drive and how its different parts working during read and write opertaion.
+7. about indexing, index table or inode table for partition which is called file system or format. when we format partition is create internally the Inode table.
+8. OS always look the Inode table to calculate the used and free space of any partition.
+9. Windows create FAT and NTFS format type, Linux create ext3, ext4 format type. In NTFS creation time is recorded but ext4 store the modification time.
+10. In FAT system generally allowed size is 4GB so it doesnot allow to store file greater than 4GB.
+11. learnt these commands:  fdisk -l,  mkfs.ext4,  mount, df -h, umount.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+24/05/2020 session 34:
+The session was good and I learned so many new things like:
+1. installation of RHEL8 in cli version and configure yum using mount command 
+2. NAS or Network Attach Storage which is kind of server that provide storage sevice to store data on network so that we can access data from remote locations.
+3. NAS work on NFS protocol which is used to read or write data on cloud. We used nfs-utils program to setup our own network storage and also understand about some permission required for read and write like ro, rw, no_root_squash.
+4. some types of storage used in cloud services like Object, Block and File
+5. revise the steps for server configuration like install, cofigure and start service.
+6. size of data that can be stored in file or folder would be equal to the size of storage this is also follow in NAS.
+7. concept of mounting and its importance in NAS service.
+8. centralised system time server through which all the network using device can sync their time and we need some protocol called NTP.
+9. for syncing with NTP server we use chrony command and also add some server pool of India to sync our clock with IST time.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+31/05/2020 session 35:
+The session was good and I learned so many new things like:
+1. we reivse the previous partition concept and move to its advance part called "LVM".
+2. to store data we need some kind of storage might be HardDisk or pendrive and inside them we create partition as per requirement.
+3. steps to create storage : 1. create partition  2. format partition 3. mount partition for use.
+4. the mount is temporary and will unlink if we reboot the system. We can use fstab file to make the mount permanent.
+5. some usecases where we need to combine two physical drives and use as one or extend the size of drive in case of low storage. ex combinig 2 pendirves of 4GB and 8GB to store 10GB data and extend the storage space of server. 
+6. if we want to combine multiple devices and use them as a single device this is done by concept of LVM.
+7. what are PV or Physical Volume,VG or volume groups and Logical Volume Management or LVM and how to create VG and the LVM for given two different storage devices.
+8. some commands like: fdisk -l, df -h, pvcreate, pvdisplay, vgdisplay, vgcreate, vgextend, lvdisplay, lvcreate, lvextend, resize2fs, mkfs.ext4, mount.
+9. df -h shows only that partition which is formated and fdisk -l show all entire drives.
+10. mkfs remove the existing data if we run this command after extending the size of partition.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+07/06/2020 session 36:
+The session was good and I learned so many new things like:
+1. to find the login time, login error, worng password attempt, ip of logging device we need to check logs.
+2. information or data of any activity is called log and the file is called logfile.
+3. everytime linux admin must keep watch on log of event happens in the server.
+4. logs help in i) monitoring system in realtime ii) Analysis the traffic coming on the system.
+5. Manual editing in logs of a server or a system is a security compliance and a cyber crime.
+6. make a complete setup of webserver and client then we make some wrong attempts and then checked the logs and find some useful information regarding about it.
+7. understand that without log we cannot analysis the service. In log files we find space as a delimiters.
+8. Metrics is a concept that tell why services are slow.
+9. RSS or Resident Set Size is the memory consumed by process when it is running on ram
+9. commands : /var/log/, tail, tty, /var/log/secure, tail -f, tail -n, access_log, cut -d" ", journal -ex, cat access_log | grep server-status | wc -l, top, ps -aux, ps -o rss, %cpu pid, ps -u user -U user, lsof, lsof -u username, netstat -tnlp, netstat -unlp, netstat -nct 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+
+
+
+
+
+
+
+
+/02/2020
+The session was good and I learned so many new things like:
+1.
+2.
+3.
+4.
+5.
+6.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+
+DOCKER Sessions
+
+01/03/2020 session 0
+The session was good and I learned so many new things like:
+1. Introduction to Docker and container technology.
+2. learned and setup of dnf and yum for installation of applications. 
+3. understand the installation of docker-ce in rhel8 using dnf command.
+4. learned how to install ubuntu, centos os over docker.
+5. learned some basic command to use docker like: ps, images, run -t -i etc.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+07/03/2020 session 1
+The session was good and I learned so many new things like:
+1. how to check docker is active or not.
+2. learned how to download an os image from docker hub and used docker image command to check if os is downloaded or not.
+3. learned docker ps-a command to check all the running os on docker. 
+4. learned about management commands and general commands used in docker like docker container <options> etc.
+5. learned how to make our own image and how clone it uisng commit.
+6. learned about attach and dettach an os in docker.
+7. learned how to free ram using free-m command and to get information of docker using docker info command.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+08/03/2020 session 2
+The session was good and I learned so many new things like:
+1. learned how to import and export OS.
+2. learned server setting used in docker technology.
+3. learned how to download and upload images on docker hub.
+4. understand how resource are utilised in docker.
+5. how to get ip address using inspect command.
+6. understand the setup of Apache web server.
+7. learned about the concept of shipping concept of cpulists.
+8. learned how to exchange file using scp from other os.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+14/03/2020 session 3
+The session was good and I learned so many new things like:
+1. learned about the concept works behind execution and logging command.
+2. learned about manual and automatic ways of execution of a command.
+3. learned how to launch a website using webservers.
+4. learned about the networking concept which are related and relevant to the docker.
+5. learned about the internal load balancing and its uses and configuration on docker.
+6. learned about bridge which is a software switch and also learned how to launch container in different networks.
+7. learned about null drivers, routers and switches.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+15/03/2020 session 4
+The session was good and I learned so many new things like:
+1. learned about the architecture and engine of docker on which it works.
+2. learned how the concept of bare metal and virtualization in detail,how they come into picture and its drawbacks.
+3. learned about the networking concepts like pat,dnat (destination nat),snat (source nat) etc.
+4. learned about the working of host network in docker and also about private and public IP.
+5. learned about the docker mapping.
+6. learned many commands like: pstree, ps -aux, 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+04/04/2020 session 5
+The session was good and I learned so many new things like:
+1. understand the internal strucutre of docker, how it uses hardware and redhat kernel(base OS) and how it works with the help of all these thing.
+2. understand that we put only those software which are required for services in container.
+3. learned about docker nics other than enp0s3 and how IP forwarding works in docker and redhat and how routing is used for connecting docker with external internet.
+4. learned about iptables which provide NATing and PATing services or exposing of container which help in IP forwarding, we understand the whole working and conceptual things.
+5. learned about Docker proxy which manages the router.
+6. learned about storage and its two types: framral(empheral) and persistence and what are the difference between these two storages.
+7. understand the concept of framral and persistence with lots of examples and performed lots of practicals to understand the concept in deep-dive.
+8. we learned about the persistence storage using volume option in docker and create an external safe storage which helps a lot in case of some type of system failures and major issues.
+9. understand how to set up local yum for software installation in docker and use it to install httpd webserver without using internet.
+10. learned lots and lots of command and option to do all the above mention practicals.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+12/04/2020 session 6
+The session was good and I learned so many new things like:
+1. we created a project based on Wordpress and mysql which is a blog or article site and its deployment over docker.
+2. we understand about mutli-tier architecture which is a good concept and highly used in today's real world situation.
+3. in multi-tier architecture we use containers running on different os and linked them in such a way that the work as a whole new dependent containers. we used wordpress and mysql for this puprose.
+4. we understand about mysql service, install it, setup it, and launch it for storing the data generated through wordpress into its data base.
+5. we used wordpress for making a whole new front-end of our project and customise its look and feel according to our convenience and connected it with mysql database.
+6. we use almost all the concept we have learnt in previous docker class like: we use PATting, linking(DNS) from networking, apache-php webserver, volumes to store the webpages and database, and some concept of yaml language for coding.
+7. we learnt about an important concept called IAAC or Infrastructure as a Code which is nothing but making a program file which consist whole infrastructure and we can launch it using a one command in one second.
+8. for managing the Infrasturcture in docker we need to use docker-compose which is generally a .yml file written in .yaml programming language and everything in this language is stored inside in key-value pair format.
+9. we learn how to understand and rectify the error coming in launching the project and also understand about entrypoint in docker containers and how the work in multi-tier architecture.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+RISE id : RISE 2020.83.8.1
+
+
+10/05/2020 session 7
+The session was good and I learned so many new things like:
+1. how to create our own docker image and understand that we have two ways commit and scripting(keywords) called dockerfile.
+2. we can't use docker directly we need to use it with some other technologies like Kubernetes and Jenkins.
+3. to use any services or program we need to install an os and we need to create an environment to use that service.
+4. Dockerfile is the scripting file in which we can write our requirement s and build this file our whole environment will be ready in just some seconds.
+5. Dockerfile is very flexible as it creates a container image which is almost suitable with any other container technology like Podman, Openshift, Rockett etc.
+6. we have created some docker file in which we have setup a complete python interpreter environment and in another file we have created a complete apache-webserver environment.
+7. we used some commands like: Dockerfile, docker build -t os:version /path, some important key words:
+FROM, RUN,CMD, COPY, EXPOSE etc.
+8. Docker image provide us isolation which is very important and necessary thing in todays world.
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators
+RISE id : RISE 2020.83.8.1
+
+WORKSHOP
+28/03/2020
+The session was good and we learned so many new things like:
+1. we started with our objectives,requirements, detailed discussion on COVID-19 and learned about RTPCR what is its limitations.
+2. we started some basic linux commands its working, some basic concept of python programming, differences btwn gui and cli applications.
+3. we then moved to our project which is based on AI and uses MASK-RCNN technology. we understand the concept of program, os, cpu, ram to make our computer intelligent.
+4. we start to create our own program similar to cheese application in rhel7. we basically write code for using web camera for capturing image and live streaming video.
+5. we use our rhel7 lab, anaconda environment, jupyter notebook for writing and executing code.
+
+and many more things...
+
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+
+29/03/2020
+
+The session was good and we learned so many new things like:
+1. we started with python list, numpy library and its application in image processing.
+2. we learned about image proccessing, cropping,decoration and how it works.
+3. we learned about facial recognition and use it for user authentication.
+4. we revise some docker concept and implement it with facial authentication.
+5. we learned core behind machine learning, data science, devops, mlops, and AI.
+6. we learned and implement ml algoritms like LBPH, MASK-RCNN to more precise recognition.
+7. we learned the concept of ANN,CNN, TensorFlow and itegrate python with linux 
+and many more things...
+Your work is highly appreciated.
+Thank you for giving your precious time and making our country a nation of creators.
+
+
